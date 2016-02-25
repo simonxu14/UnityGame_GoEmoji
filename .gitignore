@@ -3,7 +3,8 @@
 Library
 ProjectSettings
 obj
-.sln
-.csproj
-.csproj
-.userprefs
+*.sln
+*.csproj
+*.csproj
+*.userprefs
+*.meta
