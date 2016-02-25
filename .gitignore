@@ -1,0 +1,9 @@
+*.[oa]
+.DS_Store
+Library
+ProjectSettings
+obj
+.sln
+.csproj
+.csproj
+.userprefs
